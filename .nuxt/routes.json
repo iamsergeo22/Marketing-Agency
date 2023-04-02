@@ -1,0 +1,37 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/serge/Desktop/marketing-startup/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_49e90619"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "/home/serge/Desktop/marketing-startup/pages/portfolio.vue",
+    "chunkName": "pages/portfolio",
+    "_name": "_64d7bf01"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "/home/serge/Desktop/marketing-startup/pages/service.vue",
+    "chunkName": "pages/service",
+    "_name": "_56ef53a4"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "/home/serge/Desktop/marketing-startup/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_5a7bfcc7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/serge/Desktop/marketing-startup/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0df1c60b"
+  }
+]
